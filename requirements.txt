@@ -2,4 +2,4 @@ pyspark
 delta-spark
 pandas
 numpy
-Databricks - connect
+Databricks-connect
